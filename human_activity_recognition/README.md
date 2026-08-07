@@ -378,4 +378,12 @@ GitHub: [dPdms21](https://github.com/dPdms21)
 
 ### Related Research
 
-*Semantic-Aligned Multimodal Human Activity Recognition Using Visual and Audio Data*
+본 프로젝트는 아래 논문과 연관된 멀티모달 Human Activity Recognition(HAR) 연구 구현입니다.
+
+> Yeeun Park, Joonho Byun, and Siwoo Byun,  
+> “Semantic-aligned multimodal human activity recognition using visual and audio data,”  
+> *International Journal of Electrical and Computer Engineering (IJECE)*,  
+> Vol. 16, No. 4, pp. 2087–2095, August 2026.  
+> DOI: [10.11591/ijece.v16i4.pp2087-2095](https://doi.org/10.11591/ijece.v16i4.pp2087-2095)
+
+- Paper: [IJECE Article #41842](https://ijece.iaescore.com/index.php/IJECE/article/view/41842)
